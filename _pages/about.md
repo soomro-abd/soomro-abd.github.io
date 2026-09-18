@@ -31,7 +31,9 @@ latest_posts:
 
 Right now, I am working on:
 
-- improving federated learing (FL) over cellular networks
+- improving federated learning (FL) over cellular networks
+- improving the accuracy of time synchronization in mobile environments
+- developing a [framework for testing federated learning systems](https://seed-vt.github.io/FLTest/)
 
 Previously, I have:
 
