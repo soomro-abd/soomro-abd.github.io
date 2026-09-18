@@ -233,6 +233,7 @@ sass:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
+  compress_css: false # Sass already emits compressed CSS; avoid reprocessing it during the build
   compress_javascript: false # set to false since we are using terser as the js minifier
   exclude: ["robots.txt", "assets/js/search/*.js"]
 

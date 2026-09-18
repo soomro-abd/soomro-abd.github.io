@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gave a talk at **New England Systems Day 2026** titled *"Millisecond Time Synchronization for 5G NB-IoT Networks"*!
+Gave a talk at **New England Systems Day 2026** titled _"Millisecond Time Synchronization for 5G NB-IoT Networks"_!
