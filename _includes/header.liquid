@@ -56,6 +56,15 @@
             </a>
           </li>
 
+          <li class="nav-item {% if page.url == '/synchronb/' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/synchronb/' | relative_url }}">
+              SynchroNB
+              {% if page.url == '/synchronb/' %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
