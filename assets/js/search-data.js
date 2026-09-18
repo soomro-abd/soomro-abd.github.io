@@ -23,18 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-synchronb-toward-robust-timing-for-5g-nb-iot-networks",
-        
-          title: "SynchroNB: Toward Robust Timing for 5G NB-IoT Networks",
-        
-        description: "How we make time synchronization more accurate and efficient on cellular IoT devices.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/synchronb/";
-          
-        },
-      },{id: "books-the-godfather",
+        },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
